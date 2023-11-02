@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392.78 191.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d2d700;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Impact, Impact;
+        font-size: 150px;
+        letter-spacing: .05em;
+      }
+
+      .cls-3 {
+        fill: #5c2362;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #872b86;
+      }
+
+      .cls-5 {
+        fill: #5c2260;
+      }
+    </style>
+  </defs>
+  <g id="Text">
+    <g>
+      <polyline class="cls-4" points="336.04 23.26 326.77 16.2 325.33 23.26"/>
+      <polyline class="cls-4" points="378.97 23.26 369.88 16.2 368.13 23.26"/>
+      <polyline class="cls-4" points="352.06 141.79 343.06 134.79 352.06 133.75"/>
+      <polyline class="cls-4" points="310.24 141.79 301.3 134.79 310.24 132.73"/>
+      <polyline class="cls-4" points="259.48 141.79 250.48 134.79 259.48 132.25"/>
+      <polyline class="cls-4" points="290.28 23.2 281.23 16.22 279.95 23.2"/>
+      <polyline class="cls-4" points="246.76 23.2 237.76 16.21 236.17 23.2"/>
+      <polyline class="cls-4" points="184.3 141.79 175.27 134.79 184.3 133.24"/>
+      <polyline class="cls-4" points="198.95 23.22 189.93 16.21 190.13 23.22"/>
+      <polyline class="cls-4" points="155.05 23.2 145.93 16.15 144.04 23.2"/>
+      <polyline class="cls-4" points="89.11 23.23 80.07 16.23 77.35 23.23"/>
+      <polyline class="cls-4" points="46.45 23.26 37.45 16.24 36.67 23.26"/>
+      <polyline class="cls-4" points="153.72 69.43 144.7 62.44 144.28 69.43 153.72 69.43"/>
+      <polyline class="cls-4" points="157.1 118.08 148.05 111.04 147.4 118.08 157.1 118.08"/>
+      <polyline class="cls-4" points="103.66 141.79 94.66 134.79 103.66 133.11 103.66 141.79"/>
+      <polyline class="cls-4" points="58.99 141.79 49.99 134.79 58.99 132.82 58.99 141.79"/>
+      <polyline class="cls-4" points="15.69 141.79 6.62 134.79 19.78 131.65 15.69 141.79"/>
+      <text class="cls-2" transform="translate(9.5 141.79)"><tspan x="0" y="0">KEVIN</tspan></text>
+      <polygon class="cls-3" points="46.48 141.79 37.42 134.79 6.62 134.79 15.69 141.79 46.48 141.79"/>
+      <polygon class="cls-3" points="90.84 141.79 81.82 134.79 49.99 134.79 58.99 141.79 90.84 141.79"/>
+      <polygon class="cls-3" points="157.18 141.79 148.1 134.79 94.66 134.79 103.66 141.79 157.18 141.79"/>
+      <polygon class="cls-3" points="231.1 141.79 222.07 134.79 175.27 134.79 184.3 141.79 231.1 141.79"/>
+      <polygon class="cls-3" points="290.41 141.79 281.32 134.79 250.48 134.79 259.48 141.79 290.41 141.79"/>
+      <polygon class="cls-3" points="336.04 141.79 326.98 134.79 301.3 134.79 310.24 141.79 336.04 141.79"/>
+      <polygon class="cls-3" points="379.06 141.79 370.05 134.79 343.06 134.79 352.06 141.79 379.06 141.79"/>
+      <polygon class="cls-3" points="153.72 91.93 144.7 85.09 125.53 85.09 134.62 91.93 153.72 91.93"/>
+      <polygon class="cls-5" points="155.05 47.02 146.05 40 125.49 40 134.49 46.92 155.05 47.02"/>
+      <text class="cls-1" transform="translate(.5 134.79)"><tspan x="0" y="0">KEVIN</tspan></text>
+    </g>
+  </g>
+</svg>
